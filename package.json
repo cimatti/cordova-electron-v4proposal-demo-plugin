@@ -1,0 +1,23 @@
+{
+  "name": "cordova-electron-v4proposal-demo-plugin",
+  "version": "1.0.0",
+  "description": "Demo plugin for cordova-electron v4.0.x proposal by Cimatti (https://github.com/cimatti/cordova-electron/tree/4.0.x-proposal)",
+  "cordova": {
+    "id": "cordova-electron-v4proposal-demo-plugin",
+    "platforms": [
+      "android",
+      "ios",
+      "browser",
+      "electron"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios",
+    "cordova-browser",
+    "cordova-electron"
+  ],
+  "author": "Cimatti Consulting",
+  "license": "Apache-2.0"
+}
